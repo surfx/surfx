@@ -1,4 +1,13 @@
-## Hi there 👋
+## Emerson Shigueo Sugimoto 😎
+
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg)
+
 
 <!--
 **surfx/surfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
