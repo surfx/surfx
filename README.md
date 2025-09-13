@@ -3,7 +3,6 @@
 <div>
   <img height="180em" alt="Surfx's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=surfx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" alt="Surfx's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surfx&layout=compact&langs_count=16&theme=tokyonight">
-  &nbsp;&nbsp;
   <img height="180em" alt="Vscode Java" src="vscode_java.gif">
 </div>
 
@@ -54,9 +53,12 @@
 <a href="https://github.com/surfx" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="[https://github.com/surfx](https://www.linkedin.com/in/emerson-sugimoto-3453a032/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+##
 
+![Github Snake](https://raw.githubusercontent.com/surfx/surfx/refs/heads/output/github-snake-dark.svg)
 
 <!--
 https://raw.githubusercontent.com
 https://github.com/Ileriayo/markdown-badges
+https://www.youtube.com/watch?v=U-IVndCqXWc
 -->
