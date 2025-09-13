@@ -2,7 +2,13 @@
 
 ## 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
+<div>
+  <img height="180em" alt="Surfx's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=surfx&show_icons=true&theme=tokyonight">
+  <img height="180em" alt="Surfx's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surfx&layout=compact">
+</div>
+<br />
+
+<div style="display: inline_block;"><br>
   <img align="center" alt="Emerson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emerson-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg">
   <img align="center" alt="Emerson-Angular-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angularjs/angularjs-original.svg">
@@ -38,7 +44,7 @@
   <img align="center" alt="Emerson-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Emerson-Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 </div>
-
+<br />
 
 
 <!--
