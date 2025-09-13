@@ -1,14 +1,15 @@
 ## Emerson Shigueo Sugimoto 😎
 
-## 🚀 Tecnologias
-
 <div>
   <img height="180em" alt="Surfx's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=surfx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" alt="Surfx's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surfx&layout=compact&langs_count=16&theme=tokyonight">
+  &nbsp;&nbsp;
+  <img height="180em" alt="Vscode Java" src="vscode_java.gif">
 </div>
-<br />
 
-<div style="display: inline_block;"><br>
+##
+
+<div style="display: inline_block;">
   <img align="center" alt="Emerson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emerson-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg">
   <img align="center" alt="Emerson-Angular-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angularjs/angularjs-original.svg">
@@ -31,8 +32,8 @@
   <img align="center" alt="Emerson-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Emerson-Maven" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg">
   <img align="center" alt="Emerson-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Emerson-ElasticSearch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
   <img align="center" alt="Emerson-Kibana" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-plain.svg">
+  <img align="center" alt="Emerson-ElasticSearch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
   <img align="center" alt="Emerson-Cassandra" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-plain.svg">
   <img align="center" alt="Emerson-Redis" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg">
   <img align="center" alt="Emerson-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
@@ -44,20 +45,18 @@
   <img align="center" alt="Emerson-Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Emerson-Linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
 </div>
-<br />
+
+##
+
+<a href="https://www.facebook.com/emerson.emer.16?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/emerson.sugimoto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="mailto:eme.vbnet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/surfx" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="[https://github.com/surfx](https://www.linkedin.com/in/emerson-sugimoto-3453a032/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 
 
 <!--
-**surfx/surfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://raw.githubusercontent.com
+https://github.com/Ileriayo/markdown-badges
 -->
