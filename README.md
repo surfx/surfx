@@ -1,6 +1,6 @@
 ## Emerson Shigueo Sugimoto 😎
 
-<div>
+<div align="center">
   <img height="180em" alt="Surfx's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=surfx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" alt="Surfx's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surfx&layout=compact&langs_count=16&theme=tokyonight">
   <img height="180em" alt="Vscode Java" src="vscode_java.gif">
@@ -8,7 +8,7 @@
 
 ##
 
-<div style="display: inline_block;">
+<div style="display: inline_block;" align="center">
   <img align="center" alt="Emerson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emerson-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg">
   <img align="center" alt="Emerson-Angular-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angularjs/angularjs-original.svg">
@@ -47,11 +47,13 @@
 
 ##
 
-<a href="https://www.facebook.com/emerson.emer.16?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/emerson.sugimoto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="mailto:eme.vbnet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/surfx" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="[https://github.com/surfx](https://www.linkedin.com/in/emerson-sugimoto-3453a032/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+  <a href="https://www.facebook.com/emerson.emer.16?locale=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/emerson.sugimoto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="mailto:eme.vbnet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/surfx" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/emerson-sugimoto-3453a032/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ##
 
