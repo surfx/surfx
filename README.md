@@ -55,7 +55,11 @@
 
 ##
 
-![Github Snake](https://raw.githubusercontent.com/surfx/surfx/refs/heads/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![Github Snake](https://raw.githubusercontent.com/surfx/surfx/refs/heads/output/github-snake-dark.svg)
+
+</div>
 
 <!--
 https://raw.githubusercontent.com
