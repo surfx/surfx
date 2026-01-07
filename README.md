@@ -1,7 +1,8 @@
 ## Emerson Shigueo Sugimoto 😎
 
+![Minhas Estatísticas](./profile/stats.svg)
+
 <div align="center">
-  ![Minhas Estatísticas](./profile/stats.svg)
   <!--<img height="180em" alt="Surfx's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=surfx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" alt="Surfx's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surfx&layout=compact&langs_count=16&theme=tokyonight">-->
   <img height="180em" alt="Vscode Java" src="vscode_java.gif">
